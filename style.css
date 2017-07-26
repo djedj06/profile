@@ -1,0 +1,66 @@
+body {
+background-image: url("../photo/background.jpg");
+color: #181810;
+font-family: 'Roboto', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Lato', sans-serif;
+}
+
+header {
+  line-height: 75%;
+}
+
+a {
+  color: blue;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+.card {
+  width: 60%;
+  margin-left: 20%;
+  background-color: white;
+  text-align: center;
+  margin-bottom: 50px;
+  border: solid;
+}
+
+.container {
+margin: 0 auto;
+}
+
+.img-circle {
+border-radius: 50%;
+}
+
+li {
+  display: inline-block;
+}
+
+i {
+  font-size: 5000px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+
+th {
+  background-color: grey;
+}
+
+.table-center {
+  padding-top: 50px;
+}
